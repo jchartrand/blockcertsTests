@@ -1,0 +1,10 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "RevocationList",
+  "id": "https://raw.githubusercontent.com/jchartrand/blockcertsTests/master/mainnet/revocations.json",
+  "issuer": "https://raw.githubusercontent.com/jchartrand/blockcertsTests/master/mainnet/issuer.json",
+  "revokedAssertions": [{
+    "id": "idWouldGoHere",
+    "revocationReason": "Test"
+  }]
+}
